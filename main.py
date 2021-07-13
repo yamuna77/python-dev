@@ -1,6 +1,6 @@
 print('yammi')
 a = "hello python"
-b ="hey python leaner"
+b ="hey python"
 c = a+b
 c
 print(c)
